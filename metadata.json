@@ -1,0 +1,6 @@
+{
+  "name": "LankaWave Radio",
+  "description": "Sri Lankan Radio Live app streaming all major stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
